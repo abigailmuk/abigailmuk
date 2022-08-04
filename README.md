@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://abigail-amy-mukombero.netlify.app/education](https://abigail-amy-mukombero.netlify.app/education)
 
-- ⚡ Fun fact **I learning to speak French!**
+- ⚡ Fun fact **I am learning to speak French!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
