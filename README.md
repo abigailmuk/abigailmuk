@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abigailmuk@hotmail.com**
 
-- 📄 Know about my experiences [https://abigail-amy-mukombero.netlify.app/education](https://abigail-amy-mukombero.netlify.app/education)
+- 📄 Learn more about me [here](https://abigail-amy-mukombero.netlify.app/)
 
 - ⚡ Fun fact **I am learning to use Adobe After Effects!**
 
