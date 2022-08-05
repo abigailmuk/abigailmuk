@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS and Swift**
 
-- 👨‍💻 All of my projects are available at [https://abigail-amy-mukombero.netlify.app/](https://abigail-amy-mukombero.netlify.app/)
+- 👨‍💻 All of my projects are available within my [repositories](https://github.com/abigailmuk?tab=repositories)
 
 - 💬 Ask me about **how React JS is going**
 
