@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abigail Mukombero</h1>
 <h3 align="center">A passionate multimedia designer creating creative applications on all platforms!</h3>
 
-<img align="right" alt="Coding" width="300" src="[https://im2.ezgif.com/tmp/ezgif-2-3c8b132461.gif](https://im2.ezgif.com/tmp/ezgif-2-6d52e01e72.gif)">
+<img align="right" alt="Coding" width="300" src="https://im2.ezgif.com/tmp/ezgif-2-6d52e01e72.gif">
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/abigailmuk/abigailsportfolio/tree/main/abigailsportfolio)
 
