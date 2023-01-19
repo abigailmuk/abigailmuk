@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available within my [repositories](https://github.com/abigailmuk?tab=repositories)
 
-/*- 💬 Ask me about **how React JS is going...** */
+- 💬 Ask me about **how React JS is going...**
 
 - 📫 How to reach me **abigailmuk@hotmail.com**
 
